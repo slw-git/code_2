@@ -1,3 +1,4 @@
+"""
 >>> import operator
 >>> import itertools
 
@@ -7,3 +8,4 @@
 >>> list(itertools.accumulate(months, operator.add))
 [10, 18, 23, 30, 42, 52, 57, 65, 80, 83, 87, 89]
 
+""""
